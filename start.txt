@@ -1,1 +1,1 @@
-Git Show workflow demo
+Git Show workflow demo. Updated info.
